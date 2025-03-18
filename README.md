@@ -16,6 +16,6 @@ Greetings, this is a modest, incomplete 2D game that I developed as part of my e
 ## HOW TO TRY IT
 
 1. Download the `save file.c3p`
-2. Search on Google `Construct 3` site and open it
+2. Search on Google `Construct 3` site and visit the website
 3. The site has an `OPEN` bar from which you can import the downloaded file.
 4. Have fun!😊
